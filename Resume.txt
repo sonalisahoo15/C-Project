@@ -1,0 +1,6 @@
+This was my first AWS project in Wipro.
+ls
+ssh -i "Git-Ubuntu -Virg..pem" ubuntu@3.82.162.63
+
+
+
